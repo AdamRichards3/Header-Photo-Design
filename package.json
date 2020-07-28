@@ -1,0 +1,24 @@
+{
+  "name": "resume_website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamRichards3/Resume_Website.git"
+  },
+  "author": "A W Richards",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamRichards3/Resume_Website/issues"
+  },
+  "homepage": "https://github.com/AdamRichards3/Resume_Website#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4"
+  }
+}
